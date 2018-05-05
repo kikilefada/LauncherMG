@@ -1,0 +1,12 @@
+C:\Users\Kiki Lefada\source\repos\LauncherLos\LauncherLos\bin\Debug\LauncherLos.exe.config
+C:\Users\Kiki Lefada\source\repos\LauncherLos\LauncherLos\bin\Debug\LauncherLos.exe
+C:\Users\Kiki Lefada\source\repos\LauncherLos\LauncherLos\bin\Debug\LauncherLos.pdb
+C:\Users\Kiki Lefada\source\repos\LauncherLos\LauncherLos\bin\Debug\LauncherLos.xml
+C:\Users\Kiki Lefada\source\repos\LauncherLos\LauncherLos\obj\Debug\LauncherLos.vbprojResolveAssemblyReference.cache
+C:\Users\Kiki Lefada\source\repos\LauncherLos\LauncherLos\obj\Debug\LauncherLos.Launcher.resources
+C:\Users\Kiki Lefada\source\repos\LauncherLos\LauncherLos\obj\Debug\LauncherLos.Resources.resources
+C:\Users\Kiki Lefada\source\repos\LauncherLos\LauncherLos\obj\Debug\LauncherLos.vbproj.GenerateResource.cache
+C:\Users\Kiki Lefada\source\repos\LauncherLos\LauncherLos\obj\Debug\LauncherLos.vbproj.CoreCompileInputs.cache
+C:\Users\Kiki Lefada\source\repos\LauncherLos\LauncherLos\obj\Debug\LauncherLos.exe
+C:\Users\Kiki Lefada\source\repos\LauncherLos\LauncherLos\obj\Debug\LauncherLos.xml
+C:\Users\Kiki Lefada\source\repos\LauncherLos\LauncherLos\obj\Debug\LauncherLos.pdb
